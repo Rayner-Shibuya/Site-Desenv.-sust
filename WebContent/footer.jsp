@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <footer class="page-footer font-small lighten-5"
-	style="background: #ebb9e2; margin-top: 75px;">
+	style="background: #28a745; margin-top: 75px;">
 
 
 	<!-- Footer Links -->

@@ -33,7 +33,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/w4nBD9_LUiI"
+					data-src="https://www.youtube.com/embed/ueU83pICyek"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -43,7 +43,7 @@
 
 				</button>
 				<p style="padding-left: 80px; padding-right: 80px;">
-				CANSADAS DE OUVIR no AMBIENTE de TRABALHO: falta de IGUALDADE PROFISSIONAL nas empresas ft Malena
+				Desenvolvimento Sustentável - Geobrasil
 				</p>
 
 			</div>
@@ -52,7 +52,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/W2t6ySLOUIA"
+					data-src="https://www.youtube.com/embed/Ef4T7DrTvmI"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -62,7 +62,7 @@
 
 				</button>
 				<p style="padding-left: 80px; padding-right: 80px;">
-				MULHERES ESTÃO CANSADAS DE OUVIR NO TRABALHO
+				DESENVOLVIMENTO SUSTENTÁVEL...
 				</p>
 
 			</div>
@@ -76,7 +76,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/WWvIQJg4SCM"
+					data-src="https://www.youtube.com/embed/ylguAe_qWJA"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -85,7 +85,7 @@
 						data-holder-rendered="true">
 
 				</button>
-				<p style="padding-left: 80px; padding-right: 80px;">Mulheres cientistas na História | Nerdologia História
+				<p style="padding-left: 80px; padding-right: 80px;"> QUE É DESENVOLVIMENTO SUSTENTÁVEL? | GEOGRAFIA | DESCOMPLICA
 				</p>
 
 			</div>
@@ -94,7 +94,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/pjoKEkg_HIA"
+					data-src="https://www.youtube.com/embed/9v5aSqJ_bf8"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -104,7 +104,7 @@
 
 				</button>
 				<p style="padding-left: 80px; padding-right: 80px;">
-				A HORA DAS MULHERES NA TECNOLOGIA | Mentes da Tecnologia S01E02
+				Desenvolvimento Sustentável: o que é e quais são seus indicadores - IBGE Explica
 			</div>
 			
 			</div>
@@ -117,7 +117,7 @@
 					<!-- Button trigger modal -->
 					<button type="button" class="btn btn-light video-btn"
 						data-toggle="modal"
-						data-src="https://www.youtube.com/embed/AdFU6l4fL_E"
+						data-src="https://www.youtube.com/embed/pZ2RsinirlA"
 						data-target="#myModal">
 						<img class="featurette-image img-fluid mx-auto"
 							data-src="holder.js/400x400/auto" alt="400x400"
@@ -127,7 +127,7 @@
 
 					</button>
 					<p style="padding-left: 80px; padding-right: 80px;">
-					QUANDO PENSAMOS EM PROGRAMAÇÃO
+					Compreendendo as dimensões do desenvolvimento sustentável
 					</p>
 
 				</div>
@@ -136,7 +136,7 @@
 					<!-- Button trigger modal -->
 					<button type="button" class="btn btn-light video-btn"
 						data-toggle="modal"
-						data-src="https://www.youtube.com/embed/OTGeSqr-COQ"
+						data-src="https://www.youtube.com/embed/t0JL8kzCVl4"
 						data-target="#myModal">
 						<img class="featurette-image img-fluid mx-auto"
 							data-src="holder.js/400x400/auto" alt="400x400"
@@ -146,7 +146,7 @@
 
 					</button>
 					<p style="padding-left: 80px; padding-right: 80px;">
-					A HISTÓRIA DAS MULHERES NA CIÊNCIA
+					Episódio 09 - O Que É Desenvolvimento Sustentável? / O Que É Produção Sustentável?
 					</p>
 
 				</div>

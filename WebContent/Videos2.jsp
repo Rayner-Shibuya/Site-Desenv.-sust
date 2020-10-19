@@ -33,7 +33,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/zpfl6TSR-Fw"
+					data-src="https://www.youtube.com/embed/ya_u4o5MwJ4"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -43,7 +43,7 @@
 
 				</button>
 				<p style="padding-left: 80px; padding-right: 80px;">
-				Percurso Delas | Ep.#3 Ciência da Computação com Samara Leal
+				Desenvolvimento Sustentável/Tripé da Sustentabilidade - Marcela Brito
 				</p>
 
 			</div>
@@ -52,7 +52,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/rNoC8zDc408"
+					data-src="https://www.youtube.com/embed/KZB1UIYsBm0"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -62,7 +62,7 @@
 
 				</button>
 				<p style="padding-left: 80px; padding-right: 80px;">
-				Para Todas as Meninas na Ciência | Zélia Ludwig | TEDxRuaHalfeld
+				BIC : 2 minutos para entender o desenvolvimento sustentável - Brasil
 				</p>
 
 			</div>
@@ -76,7 +76,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/Gr3-5Xc0VbU"
+					data-src="https://www.youtube.com/embed/_3ejiX6AvLY"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -86,7 +86,7 @@
 
 				</button>
 				<p style="padding-left: 80px; padding-right: 80px;">
-				Mulheres na Ciência -Pibid Interdisciplinar 2017- UFABC
+				Conheça os 17 objetivos de desenvolvimento sustentável
 				</p>
 
 			</div>
@@ -95,7 +95,7 @@
 				<!-- Button trigger modal -->
 				<button type="button" class="btn btn-light video-btn"
 					data-toggle="modal"
-					data-src="https://www.youtube.com/embed/v-zNDNNXA00"
+					data-src="https://www.youtube.com/embed/Fev2MHAa-qo"
 					data-target="#myModal">
 					<img class="featurette-image img-fluid mx-auto"
 						data-src="holder.js/400x400/auto" alt="400x400"
@@ -105,7 +105,7 @@
 
 				</button>
 				<p style="padding-left: 80px; padding-right: 80px;">
-				Ciências da computação vs sistema da informação
+				Objetivos de Desenvolvimento Sustentável - IBGE Explica
 				</p>
 
 			</div>

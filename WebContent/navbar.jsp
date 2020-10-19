@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <nav class="navbar navbar-expand-lg navbar-light"
-		style="background-color: #ebb9e2;">
+		style="background-color: #28a745;">
 		<a class="navbar-brand" href="Menu.jsp"><img src="images/logo.png"
 			style="max-width: 75px;"></a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse"
