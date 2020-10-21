@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Womens's Tech - Menu</title>
+<title>DesenvolSust - Menu</title>
 
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -27,17 +27,16 @@
 
 		<div class="row featurette">
 			<div class="col-md-7">
-				<h2 class="featurette-heading">Quem somos</h2>
-				<p class="lead">Somos um grupo de estudantes da universidade São
-					Judas Tadeu (unidade da paulista), do curso de ciências da
-					computação, monitorados pelo mestre Roberto Marcos Kalili, que
-					tinham como objetivo criar um site em que pudesse ajudar e orientar
-					um problema da inclusão das mulheres na área tecnológica.</p>
+				<h2 class="featurette-heading">O criador do site</h2>
+				<p class="lead">Sou um estudante da Universidade Paulista (unidade da paraiso), do curso de ciências da
+					computação, monitorados pelo mestre Gustavo Molina, que
+					tinha como objetivo criar um site em que pudesse ajudar e orientar
+					as pessoas sobre a importância do desenvolvimento sustentável.</p>
 			</div>
 			<div class="col-md-5">
 				<img class="featurette-image img-fluid mx-auto"
 					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 400px; height: 400px;" src="images/saojudas.png"
+					style="width: 400px; height: 400px;" src="images/unip.jpg"
 					data-holder-rendered="true">
 			</div>
 		</div>
@@ -46,16 +45,8 @@
 
 		<div class="row featurette">
 			<div class="col-md-7 order-md-2">
-				<h2 class="featurette-heading">Nossa ideia</h2>
-				<p class="lead">Nossa ideia foi criar um site onde mulheres que
-					possuem interesse em entrar para a área de tecnologia pudessem
-					buscar incentivo e apoio, pois muitas vezes acabam não ingressando
-					no curso pois tem "medo" ou até mesmo insegurança dos preconceitos
-					que podem sofrer, já que a área da tecnologia é bastante conhecida
-					por ser maioritariamente masculina. Por isso a ideia do site veio
-					como um meio de mostrar que cada vez mais as mulheres entram para a
-					área tecnológica e são totalmente capazes de crescer e se tornar
-					grandes profissionais.</p>
+				<h2 class="featurette-heading">Minha ideia</h2>
+				<p class="lead">Minha ideia foi criar um site onde mostrasse a importância do desenvolvimento sustentável e que as pessoas pudessem buscar informações, sites para saber mais e um ambiente onde pudesse juntar vários sites informativos sobre o assunto.</p>
 			</div>
 			<div class="col-md-5 order-md-1">
 				<img class="featurette-image img-fluid mx-auto"
@@ -72,41 +63,18 @@
 
 
 		<!-- Three columns of text below the carousel -->
-		<h2 style="text-align: center; padding-bottom: 10px;">Integrantes</h2>
+		<h2 style="text-align: center; padding-bottom: 10px;">Criador</h2>
 		<p>
 		<div class="row" style="text-align: center;">
 
-			<div class="col-lg-3">
+			<div class="col-lg-12">
 				<img class="rounded-circle" src="images/integrantes/rayner.jpg"
 					alt="Generic placeholder image" width="120" height="120">
 				<h2 style="font-weight: 400;">Rayner Shibuya</h2>
-				<p>Aluno da Universidade São Judas Tadeu unidade paulista,
-					terceiro semestre do periodo noturno</p>
+				<p>Aluno da Universidade Paulista,
+					quarto semestre do periodo noturno</p>
 			</div>
-			<!-- /.col-lg-3 -->
-			<div class="col-lg-3">
-				<img class="rounded-circle" src="images/integrantes/Gih.png"
-					alt="Generic placeholder image" width="120" height="120">
-				<h2 style="font-weight: 400;">Giovanna Galvão</h2>
-				<p>Aluna da Universidade São Judas Tadeu unidade paulista,
-					terceiro semestre do periodo noturno</p>
-			</div>
-			<!-- /.col-lg-3 -->
-			<div class="col-lg-3">
-				<img class="rounded-circle" src="images/integrantes/marina.jpeg"
-					alt="Generic placeholder image" width="120" height="120">
-				<h2 style="font-weight: 400;">Marina Junqueira</h2>
-				<p>Aluna da Universidade São Judas Tadeu unidade paulista,
-					terceiro semestre do periodo noturno</p>
-			</div>
-			<!-- /.col-lg-3 -->
-			<div class="col-lg-3">
-				<img class="rounded-circle" src="images/integrantes/guilherme.jpeg"
-					alt="Generic placeholder image" width="120" height="120">
-				<h2 style="font-weight: 400;">Guilherme Santos</h2>
-				<p>Aluno da Universidade São Judas Tadeu unidade paulista,
-					terceiro semestre do periodo noturno</p>
-			</div>
+			
 		</div>
 		<!-- /.row -->
 

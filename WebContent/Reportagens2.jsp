@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Womens's Tech - Menu</title>
+<title>DesenvolSust - Menu</title>
 
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -23,99 +23,102 @@
 
 	<div class="container">
 
-		<h1>Reportagens para se motivar</h1>
+		<h1>Reportagens para saber mais</h1>
 		<!-- START THE FEATURETTES -->
 
 		<hr class="featurette-divider">
 
-		<a href="https://www.serpro.gov.br/menu/noticias/noticias-2019/mulheres-pioneiras-informatica-agora-minoria" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep6.jpg"
-					data-holder-rendered="true">
-			</div>
+		<a
+			href="https://www.mma.gov.br/publicacoes/desenvolvimento-sustent%C3%A1vel/category/148-geral.html"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep6.jpg" data-holder-rendered="true">
+				</div>
 
-			<div class="col-md-9">
-				<h4>Mulheres foram pioneiras na informática, mas agora são
-					minoria</h4>
-				<p>No Brasil, mulheres representam cerca de 57% das ingressantes
-					no ensino superior, conforme dados do instituto de pesquisa ligado
-					ao Ministério da Educação, em seu último levantamento (2016). Ainda
-					assim, elas estão longe de representar número equivalente de alunas
-					nas carreiras de engenharias, ciências exatas e ciências da terra.
-				</p>
+				<div class="col-md-9">
+					<h4>Ministério do meio ambiente</h4>
+					<p>Ótimo site para baixar arquivos referentes a desenvolvimento
+						sustentável</p>
+				</div>
 			</div>
-		</div>
 		</a>
-		
 
-		<hr class="featurette-divider">
-	
-		<a href="https://take.net/blog/devs/a-volta-das-mulheres-na-computacao" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep7.jpg"
-					data-holder-rendered="true">
-			</div>
-
-			<div class="col-md-9">
-				<h4>A volta das mulheres na computação</h4>
-				<p>Como mulher desenvolvedora e inserida na área de tecnologia,
-					você invariavelmente se acostumará a ter homens como grande maioria
-					dos colegas de universidade e trabalho. Fala-se muito de Alan
-					Turing, mas pouco de Grace Hopper e Ada Lovelace</p>
-			</div>
-		</div>
-		</a>
-		
 
 		<hr class="featurette-divider">
 
-		<a href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-026X2013000300003" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep8.jpg"
-					data-holder-rendered="true">
-			</div>
+		<a
+			href="https://www.infoescola.com/geografia/desenvolvimento-sustentavel/"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep7.jpg" data-holder-rendered="true">
+				</div>
 
-			<div class="col-md-9">
-				<h4>As mulheres na Ciência da Computação</h4>
-				<p>O objetivo deste trabalho é compreender a inserção de
-					mulheres na Ciência da Computação. Buscou-se conhecer as percepções
-					de professoras e professores a respeito da inserção das mulheres
-					nessa área e as estratégias acionadas por elas para afirmarem-se
-					nesse ambiente androcêntrico</p>
+				<div class="col-md-9">
+					<h4>InfoEscola</h4>
+					<p>A expressão desenvolvimento sustentável é utilizada para
+						designar um modelo econômico que busque conciliar desenvolvimento
+						econômico à preservação e manutenção dos recursos naturais
+						disponíveis</p>
+				</div>
 			</div>
-		</div>
 		</a>
-		
+
 
 		<hr class="featurette-divider">
 
-		<a href="https://www.unicamp.br/unicamp/noticias/2019/02/11/ainda-ha-muito-espaco-para-mulheres-e-meninas-na-ciencia-e-tecnologia" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep9.jpg"
-					data-holder-rendered="true">
-			</div>
+		<a
+			href="https://www.politize.com.br/desenvolvimento-sustentavel-o-que-e/"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep8.png" data-holder-rendered="true">
+				</div>
 
-			<div class="col-md-9">
-				<h4>Ainda há muito espaço para mulheres e meninas na ciência e
-					tecnologia</h4>
-				<p>Hoje é o dia Internacional de Mulheres e Meninas na Ciência,
-					iniciado em 2016 pela Unesco para mobilizar o debate, análises e
-					ações que valorizem e aumentem a presença feminina na ciência e
-					tecnologia e em todos os níveis da carreira</p>
+				<div class="col-md-9">
+					<h4>VOCÊ SABE O QUE É DESENVOLVIMENTO SUSTENTÁVEL</h4>
+					<p>Termo que tem sido muito utilizado nos últimos anos tanto
+						pela mídia, quanto por acadêmicos e governantes do mundo inteiro,
+						o desenvolvimento sustentável é de extrema importância não apenas
+						para o nosso bem-estar, mas sobretudo para o das gerações futuras.
+						Apesar de ouvirmos constantes debates sobre o assunto, você
+						conseguiria definir esse conceito sem pestanejar?</p>
+				</div>
 			</div>
-		</div>
+		</a>
+
+
+		<hr class="featurette-divider">
+
+		<a
+			href="https://www.educamaisbrasil.com.br/enem/biologia/desenvolvimento-sustentavel"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep9.png" data-holder-rendered="true">
+				</div>
+
+				<div class="col-md-9">
+					<h4>Uso racional dos recursos naturais</h4>
+					<p>O desenvolvimento sustentável é uma maneira de desenvolver a
+						sociedade por meio de estratégias racionais, ou seja, que não
+						permitam esgotar os recursos naturais, preservando sempre o meio
+						ambiente.</p>
+				</div>
+			</div>
 		</a>
 
 		<hr class="featurette-divider">

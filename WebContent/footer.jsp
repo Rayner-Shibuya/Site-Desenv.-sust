@@ -16,7 +16,7 @@
 
 				<!-- Content -->
 				<h6 class="text-uppercase font-weight-bold"
-					style="border-bottom: 1px solid; padding-bottom: 5px;">Desen.Sust</h6>
+					style="border-bottom: 1px solid; padding-bottom: 5px;">DesenvolSust</h6>
 				<p>Site onde pode buscar informações e artigos sobre o desenvolvimento sustentável</p>
 
 			</div>

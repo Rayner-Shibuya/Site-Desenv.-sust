@@ -45,11 +45,12 @@ body {
 	cursor: pointer;
 	white-space: nowrap;
 	color: #FFFFFF;
+	background-color: #4dd66b;
 	font-size: 18px;
 }
 
 .btn:hover {
-	background-color: #FF48A4;
+	background-color: #28a745;
 	color: #FFFFFF;
 }
 

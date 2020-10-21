@@ -23,115 +23,110 @@
 
 	<div class="container">
 
-		<h1>Reportagens para se motivar</h1>
+		<h1>Reportagens para saber mais</h1>
 		<!-- START THE FEATURETTES -->
 
 		<hr class="featurette-divider">
 
-		<a href="https://www.sunoresearch.com.br/tudo-sobre/meg-whitman/" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep1.jpg"
-					data-holder-rendered="true">
-			</div>
+		<a
+			href="https://www.wwf.org.br/natureza_brasileira/questoes_ambientais/desenvolvimento_sustentavel/"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep1.png" data-holder-rendered="true">
+				</div>
 
-			<div class="col-md-9">
-				<h4>Margaret "Meg" Whitman</h4>
-				<p>Meg Whitman é uma executiva que foi CEO da Hewlett-Packard's
-					e eBay. Meg também foi candidata, pelo Partido Republicano, ao
-					governo da Califórnia.</p>
+				<div class="col-md-9">
+					<h4>O que é desenvolvimento sustentável?</h4>
+					<p>A definição mais aceita para desenvolvimento sustentável é o
+						desenvolvimento capaz de suprir as necessidades da geração atual,
+						sem comprometer a capacidade de atender as necessidades das
+						futuras gerações. É o desenvolvimento que não esgota os recursos
+						para o futuro.</p>
+				</div>
 			</div>
-		</div>
 		</a>
 
 		<hr class="featurette-divider">
 
-		<a href="https://www.sunoresearch.com.br/tudo-sobre/sheryl-sandberg/" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep2.jpeg"
-					data-holder-rendered="true">
-			</div>
+		<a href="https://brasilescola.uol.com.br/geografia/desenvolvimento-sustentavel.htm"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep2.png" data-holder-rendered="true">
+				</div>
 
-			<div class="col-md-9">
-				<h4>Sheryl Sandberg</h4>
-				<p>Sheryl Sandberg é a chefe operacional do Facebook desde 2008.
-					Em 2012, ela foi eleita a primeira mulher a ingressar no conselho
-					de administração da empresa norte-americana. Antes de se juntar ao
-					time do Facebook, Sheryl Sandberg fazia parte do quadro de
-					funcionários do Google.</p>
-			</div>
+				<div class="col-md-9">
+					<h4>Desenvolvimento sustentável</h4>
+					<p>O desenvolvimento sustentável é um importante conceito criado para melhorar a preservação do meio ambiente de modo a garantir um futuro melhor para as próximas gerações.</p>
+				</div>
 
-		</div>
-		</a>
-		
-		<hr class="featurette-divider">
-
-		<a href="https://querobolsa.com.br/enem/biografias/dorothy-vaughan" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep3.jpg"
-					data-holder-rendered="true">
 			</div>
-
-			<div class="col-md-9">
-				<h4>Dorothy Vaughan</h4>
-				<p>Dorothy Vaughan (1910 - 2008) primeira mulher negra a ser
-					designada como chefe de departamento na NACA (atual NASA).</p>
-			</div>
-		</div>
 		</a>
 
 		<hr class="featurette-divider">
 
-		<a href="https://canaltech.com.br/curiosidades/mulheres-historicas-ada-lovelace-a-primeira-programadora-de-todos-os-tempos-71395/" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep4.jpg"
-					data-holder-rendered="true">
-			</div>
+		<a href="https://www.todamateria.com.br/desenvolvimento-sustentavel/"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep3.png" data-holder-rendered="true">
+				</div>
 
-			<div class="col-md-9">
-				<h4>Ada Lovelace</h4>
-				<p>Ada Lovelace - a matemática que criou o primeiro algoritmo
-					para ser processado por uma máquina, sendo a primeira programadora
-					da história.</p>
+				<div class="col-md-9">
+					<h4>Desenvolvimento Sustentável</h4>
+					<p>O desenvolvimento sustentável é um conceito que corresponde ao desenvolvimento ambiental das sociedades, aliado aos desenvolvimentos econômico e social</p>
+				</div>
 			</div>
-		</div>
+		</a>
+
+		<hr class="featurette-divider">
+
+		<a
+			href="https://www.oeco.org.br/dicionario-ambiental/28588-o-que-e-desenvolvimento-sustentavel/"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep4.png" data-holder-rendered="true">
+				</div>
+
+				<div class="col-md-9">
+					<h4>O que é desenvolvimento sustentável</h4>
+					<p>O desenvolvimento que procura satisfazer as necessidades da geração atual, sem comprometer a capacidade das gerações futuras de satisfazerem as suas próprias necessidades</p>
+				</div>
+			</div>
 		</a>
 
 
 		<hr class="featurette-divider">
 
-		<a href="https://www.sunoresearch.com.br/tudo-sobre/susan-wojcicki/" target="_blank" style="color:black">
-		<div class="row featurette">
-			<div class="col-md-2">
-				<img class="featurette-image img-fluid mx-auto"
-					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 150px; height: 150px;" src="images/reportagens/rep5.jpeg"
-					data-holder-rendered="true">
-			</div>
+		<a href="https://www.ecycle.com.br/6173-desenvolvimento-sustentavel.html"
+			target="_blank" style="color: black">
+			<div class="row featurette">
+				<div class="col-md-2">
+					<img class="featurette-image img-fluid mx-auto"
+						data-src="holder.js/400x400/auto" alt="400x400"
+						style="width: 150px; height: 150px;"
+						src="images/reportagens/rep5.png" data-holder-rendered="true">
+				</div>
 
-			<div class="col-md-9">
-				<h4>Susan Wojciki</h4>
-				<p>Susan Wojcicki é CEO do Youtube, maior plataforma de
-					compartilhamento de vídeos da internet. A empresária fez a maior
-					parte de sua carreira dentro do Google, sendo que está no grupo
-					desde o início da empresa, no final da década de 90. Susan foi
-					fundamental na criação de alguns dos produtos mais rentáveis da
-					história da multinacional e teve papel essencial na compreensão de
-					como monetizar o negócio, trazendo vantagem competitiva para o
-					grupo</p>
+				<div class="col-md-9">
+					<h4>O que é desenvolvimento sustentável?</h4>
+					<p>O conceito de desenvolvimento sustentável foi consolidado em 1992, durante a Conferência da ONU sobre Meio Ambiente e Desenvolvimento</p>
+				</div>
 			</div>
-		</div>
 		</a>
 
 
