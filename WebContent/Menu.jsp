@@ -28,14 +28,12 @@
 
 		<div class="row featurette">
 			<div class="col-md-7">
-				<h2 class="featurette-heading">Lugar de mulher é na frente do
-					computador</h2>
-				<p class="lead">Tem muita menina por aí que adoraria estudar
-					computação, aprender mais sobre programação e trabalhar com
-					tecnologia, mas a participação feminina no mercado de TI ainda é
-					super pequena. Pra ter uma ideia, dos 7.339 formados em ciências da
-					computação em 2010, apenas 1091 (14,8%) eram programadoras, segundo
-					o Inep.</p>
+				<h2 class="featurette-heading">O que é desenvolvimento sustentável</h2>
+				<p class="lead">A definição mais aceita para desenvolvimento
+					sustentável é o desenvolvimento capaz de suprir as necessidades da
+					geração atual, sem comprometer a capacidade de atender as
+					necessidades das futuras gerações. É o desenvolvimento que não
+					esgota os recursos para o futuro.</p>
 			</div>
 			<div class="col-md-5">
 				<img class="featurette-image img-fluid mx-auto"

@@ -22,8 +22,7 @@
 				<li class="nav-item active"><a class="nav-link" href="Cursos.jsp">Cursos</a>
 				</li>
 				<li class="nav-item active"><a class="nav-link" href="Historias">Histórias</a></li>
-				<li class="nav-item active"><a class="nav-link" href="DisqueDenuncia.jsp">Disque
-						Denuncia</a></li>
+				<li class="nav-item active"><a class="nav-link" href="FazerDiferenca.jsp">Como ajudar?</a></li>
 				<li class="nav-item active"><a class="nav-link"
 					href="QuemSomos.jsp">Quem Somos</a></li>
 		<!-- 		<li class="nav-item dropdown"><a

@@ -23,45 +23,137 @@
 
 	<div class="container" style="">
 		<h1
-			style="padding-bottom: 10px; color: #000; border-bottom: 1px solid #ccc;">Disque
-			Denuncia</h1>
+			style="padding-bottom: 10px; color: #000; border-bottom: 1px solid #ccc;">Como
+			fazer a diferença</h1>
 
 		<div class="text-center" style="padding: 25px;">
 			<img alt="500x500" src="images/denuncia/denuncia1.jpeg">
 		</div>
 
 		<p>
-			Piadinhas, cantadas, insultos e abusos. No&nbsp;<a
-				href="https://www.agazeta.com.br/tema/assedio-no-trabalho"
-				class="link" target="_blank">ambiente de trabalho</a>, milhares de
-			mulheres sofrem com&nbsp;<a
-				href="https://www.agazeta.com.br/tema/assedio-moral" class="link"
-				target="_blank">assédio moral</a>,&nbsp;<a
-				href="https://www.agazeta.com.br/tema/assedio-sexual" class="link"
-				target="_blank">assédio sexual</a>, agressão física, discriminação e
-			preconceito. Essas violências afetam diretamente o trabalho e a vida
-			pessoal delas.
+			Nas últimas décadas, o desenvolvimento sustentável e a preservação do
+			meio ambiente têm sido pautas de interesse mundial, por isso todos os
+			países, de alguma forma, têm investido esforços em diminuir os danos
+			causados à natureza e protegê-la de ações que possam prejudicar a
+			fauna e a flora de seus territórios. No Brasil, segundo o <a
+				href="https://www.senado.leg.br/atividade/const/con1988/con1988_26.06.2019/art_225_.asp"
+				target="_blank"><strong>Artigo 225 da Constituição
+					Federal</strong></a> de 1988,&nbsp;<br>
 		</p>
-
-		<p>De cunho opressivo e discriminatório, constituem uma violação
-			aos direitos humanos, segundo Ministério Público do trabalho (MPT).
-			Mas o que fazer em meio a essa situação e como denunciar os
-			agressores?</p>
-
 		<p>
-			<b>A Gazeta</b> realizou na manhã desta&nbsp;quarta-feira (04) o
-			debate&nbsp;<a
-				href="https://www.agazeta.com.br/revista-ag/comportamento/assedio-no-trabalho-e-tema-de-roda-de-conversa-na-rede-gazeta-0320"
-				class="link" target="_blank">"Um basta ao assédio sexual no
-				mercado de trabalho"</a>. A jornalista esportiva e cocriadora do
-			movimento "Deixa ela falar",&nbsp;Gabriela Moreira,&nbsp; a
-			figurinista e propulsora do movimento "Mexeu com uma, mexeu com
-			todas",&nbsp;Su Tonani,&nbsp;e advogada, doutora em bioética e
-			escritora Elda Bussiger participaram da&nbsp;roda de conversa mediada
-			pela editora adjunta de Cidades de A Gazeta, Erica Vaz.
+			<strong>"Todos têm direito ao meio ambiente ecologicamente
+				equilibrado, bem de uso comum do povo e essencial à sadia qualidade
+				de vida, impondo-se ao poder público e à coletividade o dever de
+				defendê-lo e preservá-lo para as presentes e futuras gerações."</strong>
+		</p>
+		<p>
+			Portanto, não é só um papel do governo preservar o meio ambiente, mas
+			também é meu e seu. Você sabia que pode ajudar sua cidade a ser
+			sustentável e atingir as metas do <a
+				href="https://www.colab.re/conteudo/agenda-2030-cidades-e-comunidades-sustentaveis"
+				target="_blank"><strong>ODS 11 da ONU</strong></a>, que defende o
+			desenvolvimento sustentável das cidades, mesmo agindo sozinho? É
+			sério, suas ações têm mais impacto do que você imagina! E nós vamos
+			te ensinar <strong>7 ações individuais que ajudam no
+				desenvolvimento sustentável da cidade, </strong>vem comigo!
+		</p>
+		<p>
+			<br>
+		</p>
+		<h2>
+			<strong>1 - Economize água e energia elétrica</strong>
+		</h2>
+		<p>O básico para começar a ajudar o meio ambiente é utilizar os
+			seus recursos com sabedoria. Sabemos que no nossa planeta nenhum tipo
+			de recurso é infinito, portanto, precisamos cuidar bem do que temos!
+			Então nada de ficar tempo demais no banho, deixar a torneira aberta
+			sem necessidade, manter as luzes acesas enquanto não estiver usando
+			ou deixar plugadas na rede elétrica tomadas de equipamentos que não
+			estão sendo utilizados.</p>
+		<p>
+			<br>
+		</p>
+		<h2>
+			&nbsp;<strong>2 - Reutilize água</strong>&nbsp;
+		</h2>
+		<p>Sabe aquela água que sobra da máquina de lavar? Que tá cheia de
+			sabão e amaciante, mas que você morre de dó de jogar fora? Ainda dá
+			pra utilizá-la! Ela serve pra lavar o seu quintal e até dar um tapa
+			na sua calçada ;)&nbsp;</p>
+		<p>
+			<br>
+		</p>
+		<h2>
+			<strong>3 - Recicle seu lixo</strong>
+		</h2>
+		<p>
+			Você já parou pra ver o quanto de lixo produzimos diariamente? São
+			embalagens e mais embalagens de alimentos, latas, papéis, plásticos,
+			cascas de frutas, restos de alimentos etc. Vamos ressignificar nosso
+			lixo? Separe os materiais recicláveis (plásticos, garrafas, papéis,
+			vidros, latas, entre outros) em sacolinhas apropriadas e os orgânicos
+			(restos de comida, cascas, papel higiênico e fraldas utilizadas,
+			entre outros) em outras, preferencialmente de cores diferentes.
+			Também é possível reutilizar as cascas de frutas e de ovos para
+			adubar as suas plantinhas, que tal?<br>
+		</p>
+		<p>
+			<br>
 		</p>
 
-		<h3>Formas comuns de assédio em espaços públicos</h3>
+		<h2>
+			<strong>4 - Consuma de forma consciente</strong>
+		</h2>
+		<p>Antes de comprar diversas "coisas" e "tendências tecnológicas",
+			sempre se pergunte: eu realmente preciso disso? Terá utilidade para
+			mim e para minha família? Preciso comprar isso agora? O meio ambiente
+			e o seu bolso vão te agradecer =)</p>
+		<p>
+			<br>
+		</p>
+		<h2>
+			<strong>5 - Reutilize folhas de papel</strong>
+		</h2>
+		<p>Sabe aquele trabalho escolar que você imprimiu no ano passado e
+			tá guardado no armário, acumulando poeira? Aquele relatório que seu
+			chefe adorou ver três meses atrás, mas que não precisa mais? Tudo
+			isso pode ser reutilizado! Use o verso da folha para anotar recados e
+			ideias, rabiscar, dê para crianças desenharem, imprima nos dois lados
+			da folha ou utilize o verso para imprimir coisas que não são tão
+			importantes e serão utilizadas para consumo próprio. Enfim, dá pra
+			fazer tanta coisa!</p>
+		<p>
+			<br>
+		</p>
+		<h2>
+			<strong>&nbsp;6 - Deixe seu carro em casa</strong>
+		</h2>
+		<p>Utilize mais transporte público e outros meios que não poluem o
+			meio ambiente, como bicicletas e patinetes elétricos. Comece a
+			caminhar mais também! Além de conseguir ver coisas que passam
+			despercebidas quando você está de carro, você desestressa e pode até
+			perder aqueles quilinhos "a mais".</p>
+		<p>
+			<br>
+		</p>
+		<h2>
+			<strong>7 - Participe da Consulta Cidades Sustentáveis da
+				ONU-Habitat</strong>
+		</h2>
+		<p>
+			Além de ajudar a prefeitura da sua cidade e a ONU-Habitat a terem uma
+			noção sobre como estão os esforços para atingir o ODS11 da ONU, você
+			exerce sua cidadania falando para o governo sua opinião sobre esse
+			assunto. Para responder à consulta, é muito simples: baixe o app do
+			Colab em seu smartphone ou acesse <a
+				href="https://consultas.colab.re/cidades-sustentaveis"
+				target="_blank"><strong>https://consultas.colab.re/cidades-sustentaveis</strong></a>,
+			preencha seu cadastro e responda o questionário. É fácil, rápido e
+			você ainda ajuda sua cidade a se tornar cada vez mais sustentável!<br>
+		</p>
+
+		<h3>7 ações individuais que ajudam no desenvolvimento sustentável
+			da cidade</h3>
 
 		<ul>
 			<li>Ofensas, dizeres ou gestos ofensivos/inapropriados;</li>
@@ -165,13 +257,12 @@
 			em todo o país. Dessas, só São Paulo e Rio de Janeiro possuem
 			delegacias fora das capitais.
 		</p>
-		
-		
+
+
 		<p>Entretanto, no mapa abaixo você consegue verificar a
 			localização das delegacias da mulher com funcionamento 24 horas no
-			país:
-		</p>
-		
+			país:</p>
+
 		<p>
 			<iframe
 				src="https://www.google.com/maps/d/embed?mid=13OsIVD7AaC9UYHkQgGUKSBTrBeSmJ0Ah"

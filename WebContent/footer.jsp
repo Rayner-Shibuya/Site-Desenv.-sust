@@ -17,7 +17,8 @@
 				<!-- Content -->
 				<h6 class="text-uppercase font-weight-bold"
 					style="border-bottom: 1px solid; padding-bottom: 5px;">DesenvolSust</h6>
-				<p>Site onde pode buscar informações e artigos sobre o desenvolvimento sustentável</p>
+				<p>Site onde pode buscar informações e artigos sobre o
+					desenvolvimento sustentável</p>
 
 			</div>
 			<!-- Grid column -->
@@ -29,13 +30,13 @@
 				<h6 class="text-uppercase font-weight-bold"
 					style="border-bottom: 1px solid; padding-bottom: 5px;">Artigos</h6>
 				<p>
-					<a href="Reportagens.jsp" style="color:black">Reportagens</a>
+					<a href="Reportagens.jsp" style="color: black">Reportagens</a>
 				</p>
 				<p>
-					<a href="Videos.jsp" style="color:black">Videos</a>
+					<a href="Videos.jsp" style="color: black">Videos</a>
 				</p>
 				<p>
-					<a href="Cursos.jsp" style="color:black">Cursos</a>
+					<a href="Cursos.jsp" style="color: black">Cursos</a>
 				</p>
 
 			</div>
@@ -49,13 +50,13 @@
 					style="border-bottom: 1px solid; padding-bottom: 5px;">Useful
 					links</h6>
 				<p>
-					<a href="telaLogin.jsp" style="color:black">Login</a>
+					<a href="telaLogin.jsp" style="color: black">Login</a>
 				</p>
 				<p>
-					<a href="DisqueDenuncia.jsp" style="color:black">Disque denuncia</a>
+					<a href="FazerDiferenca.jsp" style="color: black">Como ajudar</a>
 				</p>
 				<p>
-					<a href="QuemSomos.jsp" style="color:black">Quem somos</a>
+					<a href="QuemSomos.jsp" style="color: black">Quem somos</a>
 				</p>
 
 			</div>
