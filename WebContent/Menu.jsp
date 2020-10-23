@@ -20,7 +20,7 @@
 
 	<!-- Container Principal -->
 
-	<img src="images/home/capa3.jpg" class="img-fluid"
+	<img src="images/home/capa3.png" class="img-fluid"
 		alt="Responsive image">
 
 
@@ -28,7 +28,8 @@
 
 		<div class="row featurette">
 			<div class="col-md-7">
-				<h2 class="featurette-heading">O que é desenvolvimento sustentável</h2>
+				<h2 class="featurette-heading">O que é desenvolvimento
+					sustentável</h2>
 				<p class="lead">A definição mais aceita para desenvolvimento
 					sustentável é o desenvolvimento capaz de suprir as necessidades da
 					geração atual, sem comprometer a capacidade de atender as
@@ -55,19 +56,18 @@
 		<div class="row featurette">
 			<div class="col-md-7">
 				<h2 class="featurette-heading">Você faz toda a diferença</h2>
-				<p class="lead">O desafio de programar se inicia antes mesmo da
-					tentativa de aprender. Faltam exemplos que inspirem e sobram
-					preconceitos e estereótipos que desestimulam e reforçam a idéia de
-					que a tecnologia é um campo masculino. Não se trata de falta de
-					interesse ou de habilidade, a Women's Tech acredita que é preciso
-					rever essas narrativas culturais que dizem o que a mulher pode ou
-					não fazer, além de oferecer ferramentas e oportunidades para que
-					elas aprendam.</p>
+				<p class="lead">Existem várias ferramentas para conseguir
+					alcançar o desenvolvimento sustentável, as empresas criam ou seguem
+					conceitos atualmente difundidos por organizações governamentais e
+					não governamentais. Mas não podemos deixar toda a carga para as
+					empresas, como cidadãos temos que fazer a nossa parte para ajudar.
+					Certas mudanças de atitudes são muito úteis para difundirmos o
+					Desenvolvimento Sustentável até mesmo em nosso dia-a-dia.</p>
 			</div>
 			<div class="col-md-5">
 				<img class="featurette-image img-fluid mx-auto"
 					data-src="holder.js/400x400/auto" alt="400x400"
-					style="width: 400px; height: 400px;" src="images/home/capa1.jpeg"
+					style="width: 400px; height: 400px;" src="images/home/capa1.jpg"
 					data-holder-rendered="true">
 			</div>
 		</div>

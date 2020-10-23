@@ -51,7 +51,7 @@
 			<div class="col-md-5 order-md-1">
 				<img class="featurette-image img-fluid mx-auto"
 					data-src="holder.js/500x500/auto" alt="500x500"
-					src="images/women.jpg" data-holder-rendered="true"
+					src="images/logo.jpg" data-holder-rendered="true"
 					style="width: 400px; height: 400px;">
 			</div>
 		</div>
